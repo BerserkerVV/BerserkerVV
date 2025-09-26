@@ -16,7 +16,8 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [🎙️HttpChunk with Flow](https://blog.darkwood.com/article/httpchunk-with-flow)
+- [OPENSCHOLAR学术检索大模型OPEN—SCHOLAR论文简要解读](
+https://zhuanlan.zhihu.com/p/20470388951)
 - [🔨 API Platform Conference 2025: a look back at two intense days focused on the Symfony and PHP ecosystem](https://blog.darkwood.com/article/api-platform-conference-2025-a-look-back-at-two-intense-days-focused-on-the-symfony-and-php-ecosystem)
 - [✨ Meetup SQLI](https://blog.darkwood.com/article/meetup-sqli)
 - [🎨 Pipe Programming: Linearizing Graph Complexity](https://blog.darkwood.com/article/pipe-programming-linearizing-graph-complexity)
