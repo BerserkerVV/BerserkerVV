@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/BerserkerVV/BerserkerVV/raw/main/assets/bba12070d9614e174d05683f89ee6cbf (1).gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+  <img src="https://github.com/BerserkerVV/BerserkerVV/raw/main/assets/bba12070d9614e174d05683f89ee6cbf (1).gif" 
+       alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️" 
+       width="100%">
 </p>
 
 <!--
