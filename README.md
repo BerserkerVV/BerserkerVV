@@ -20,6 +20,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 https://zhuanlan.zhihu.com/p/20470388951)
 - [LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs 论文阅读笔记](https://zhuanlan.zhihu.com/p/19121795268)
 <!-- BLOG-POST-LIST:END -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=BerserkerVV&left_color=green&right_color=red)
 
 ## :link: Links
 
