@@ -1,10 +1,10 @@
 <p align="center">
   <img src="https://github.com/BerserkerVV/BerserkerVV/raw/main/assets/bba12070d9614e174d05683f89ee6cbf (1).gif" 
-       alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️" 
+       alt="Hi, I'm Zexi Wu 👋 I'm a 🚀 AIGC Researcher 🚀 I ❤️ Happy Hardcore ❤️" 
        width="100%">
 </p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=We+Are+The+World;We+Are+The+Children)
 <!--
 How to make this gif ?
 
