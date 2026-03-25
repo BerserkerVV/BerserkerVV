@@ -4,7 +4,7 @@
        width="100%">
 </p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=We+Are+The+World;We+Are+The+Children)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Chase+My+Flow;Not+The+Crowd)
 <!--
 How to make this gif ?
 
